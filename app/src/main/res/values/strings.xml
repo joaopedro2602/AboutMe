@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="bio"> Hi, my name is Aleks.
+     \n\nI love fish.
+    \n\nThe kind that is alive and swims around in an aquarium or river, or a lake, and definitely the ocean.
+    \nFun fact is that I have several aquariums and also a river.
+    \n\nI like eating fish, too. Raw Fish. Grilled Fish. Smoked Fish. Poached Fish - not so much.
+    \nAnd sometimes I even go fishing.
+    \nAnd even less sometimes, I actually catch something.
+    \n\nOnce, when I was camping in Canada, and very hungry, I even caught a large salmon with my hands.
+    \n\nI\'ll be happy to teach you hoe to make your own aquarium.
+    \nYou should ask someone else about fishing, though. \n \n
+    </string>
+    <string name="whats_our_nickname">What is your nickname?</string>
+    <string name="done">Done!</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="name">Aleks Heacky</string>
+</resources>
